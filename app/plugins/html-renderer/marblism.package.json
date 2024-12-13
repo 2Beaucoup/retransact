@@ -1,0 +1,9 @@
+{
+  "name": "html-renderer",
+  "version": "1.0.0", 
+  "description": "Renders HTML content in a browser-like container with navigation capabilities",
+  "dependencies": [],
+  "devDependencies": [],
+  "pluginDependencies": [],
+  "keywords": ["html", "preview", "browser"]
+}

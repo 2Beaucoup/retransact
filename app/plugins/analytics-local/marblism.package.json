@@ -1,0 +1,9 @@
+{
+  "name": "analytics-local",
+  "version": "1.0.2",
+  "description": "Integrate simple analytics directly into your app — no third-party services required.",
+  "dependencies": [],
+  "devDependencies": [],
+  "pluginDependencies": ["designbox"],
+  "keywords": ["analytics"]
+}

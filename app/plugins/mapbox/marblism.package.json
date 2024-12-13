@@ -1,0 +1,7 @@
+{
+  "name": "mapbox",
+  "version": "1.0.3",
+  "description": "Integrates with Mapbox to provide a map, display markers and get coordinates from an address",
+  "dependencies": ["mapbox-gl", "react-map-gl"],
+  "devDependencies": ["@types/mapbox-gl"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kanban-board",
+  "version": "1.0.2",
+  "description": "KanbanBoard component is a flexible and reusable drag-and-drop kanban board implementation",
+  "dependencies": ["react-beautiful-dnd"],
+  "devDependencies": ["@types/react-beautiful-dnd"]
+}

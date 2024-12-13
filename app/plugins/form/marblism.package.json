@@ -1,0 +1,9 @@
+{
+  "name": "form",
+  "version": "1.0.5",
+  "description": "Simplified form handling for model / object creation, editing, and management.",
+  "dependencies": [],
+  "devDependencies": [],
+  "pluginDependencies": [],
+  "keywords": ["form"]
+}

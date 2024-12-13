@@ -1,0 +1,9 @@
+{
+  "name": "address",
+  "version": "1.0.2",
+  "description": "A plugin for managing address forms with country selection support.",
+  "dependencies": ["react-select-country-list"],
+  "devDependencies": [],
+  "pluginDependencies": ["form"],
+  "keywords": ["address", "form"]
+}

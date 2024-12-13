@@ -1,0 +1,13 @@
+{
+  "name": "internationalization",
+  "version": "1.0.1",
+  "description": "Enables language support for your application",
+  "dependencies": [
+    "react-i18next",
+    "i18next",
+    "i18next-browser-languagedetector"
+  ],
+  "devDependencies": [],
+  "pluginDependencies": [],
+  "keywords": []
+}
